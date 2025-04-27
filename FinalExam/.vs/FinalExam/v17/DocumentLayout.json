@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|e:\\github\\exam-3\\final-3\\csharp\\finalexam\\finalexam\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\enums\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\enums\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\finalexam\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D9D0EB-CF65-4ADD-BEE1-D3A83D23DFEF}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Entities\\Car.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Car.cs",
+              "RelativeToolTip": "FinalExam\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:07:50.463Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FourWheeler.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\FourWheeler.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Entities\\FourWheeler.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\FourWheeler.cs",
+              "RelativeToolTip": "FinalExam\\Entities\\FourWheeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:56:00.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwoWheeler.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\TwoWheeler.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Entities\\TwoWheeler.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\TwoWheeler.cs",
+              "RelativeToolTip": "FinalExam\\Entities\\TwoWheeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:59:10.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Entities\\Motorcycle.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Motorcycle.cs",
+              "RelativeToolTip": "FinalExam\\Entities\\Motorcycle.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA5wDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:17:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeToolTip": "FinalExam\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:37:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExteriorDesign.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Interfaces\\IExteriorDesign.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Interfaces\\IExteriorDesign.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Interfaces\\IExteriorDesign.cs",
+              "RelativeToolTip": "FinalExam\\Interfaces\\IExteriorDesign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:53:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInteriorDesign.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Interfaces\\IInteriorDesign.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Interfaces\\IInteriorDesign.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Interfaces\\IInteriorDesign.cs",
+              "RelativeToolTip": "FinalExam\\Interfaces\\IInteriorDesign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:49:05.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Entities\\Vehicle.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "FinalExam\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:42:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Enums\\VehicleType.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Enums\\VehicleType.cs",
+              "ToolTip": "E:\\GitHub\\Exam-3\\Final-3\\CSharp\\FinalExam\\FinalExam\\Enums\\VehicleType.cs",
+              "RelativeToolTip": "FinalExam\\Enums\\VehicleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:39:50.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
